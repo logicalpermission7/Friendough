@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Friendough</string>
+    <string name="greating">Hola mundo</string>
 </resources>
