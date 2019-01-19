@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "453005531611",
+    "firebase_url": "https://friendough.firebaseio.com",
+    "project_id": "friendough",
+    "storage_bucket": "friendough.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453005531611:android:3cc4c2bf1213954b",
+        "android_client_info": {
+          "package_name": "com.example.friendough"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453005531611-q81crgdiok8o7rjgj45imtoqjr2b2i65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friendough",
+            "certificate_hash": "a71daa1590cf4b22df1aed30181021354a475a0a"
+          }
+        },
+        {
+          "client_id": "453005531611-2agoj3e2nt629ujs8hs6caqd7vhte4no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJzclXhdP8tP-abYq1hbWKDybruH409Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453005531611-88i2mailv3q64ul4c7rgseehok691m4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
